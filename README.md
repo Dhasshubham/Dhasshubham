@@ -39,7 +39,7 @@ shubhamdhas123@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhasshubham&layout=compact&theme=default&langs_count=10&custom_title=Most%20Used%20Languages&hide_border=false)
 
 ## Shubham Dhas's GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhasshubham&show_icons=true&theme=default&custom_title=Shubham Dhas's%20GitHub%20Stats&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhasshubham&show_icons=true&theme=default&custom_title=Dhasshubham%20GitHub%20Stats&hide_border=false)
 
 ---
 
