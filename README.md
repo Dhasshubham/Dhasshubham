@@ -26,9 +26,9 @@ shubhamdhas123@gmail.com
 <p>
   <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="36" />&nbsp;
   <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" width="36" />&nbsp;
-  <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="36" />&nbsp;
-  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" width="36" />&nbsp;
-  <img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="36" />&nbsp;
+  <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"           width="36" />&nbsp;
+  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" width="36"    />&nbsp;
+  <img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png"width="36"/>&nbsp;
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" width="36" />
-  <img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="36" />&nbsp;
+  <img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="36"      />&nbsp;
 </p>
