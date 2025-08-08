@@ -34,3 +34,6 @@ shubhamdhas123@gmail.com
   <img alt="react" src="https://img.icons8.com/?size=100&id=9vlfB9hjA1lX&format=png&color=000000/react.png" width="36"
     />&nbsp;
   </p>
+ 
+ ## 📚 Mostly Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhasshubham&layout=compact&theme=radical)
