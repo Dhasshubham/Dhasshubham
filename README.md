@@ -18,6 +18,6 @@ shubhamdhas123@gmail.com
 - ⚡ Active fact Ready to learn nwe Concept
 
 - ## Connect with me:
-<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+<a href="https://www.linkedin.com/in/shubham-dhas-4305a9252/" target="_blank">
   <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" style="vertical-align:middle"/>
 </a>
