@@ -31,7 +31,8 @@ shubhamdhas123@gmail.com
   <img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="36" />&nbsp;
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" width="36" />
   <img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="36" />&nbsp;
-  Built with <img alt="Reactjs" src="https://img.icons8.com/color/48/000000/react.png" width="20"/> React.js
+   <img alt="Reactjs" src="https://img.icons8.com/color/48/000000/react.png" width="36"
+/> &nbsp;
 
   
 </p>
