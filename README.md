@@ -21,7 +21,9 @@ shubhamdhas123@gmail.com
 <a href="https://www.linkedin.com/in/shubham-dhas-4305a9252/" target="_blank">
   <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" style="vertical-align:middle"/>
 </a>
-## Languages and Tools:
+
+
+ ## Languages and Tools:
 <p>
   <img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="36" />&nbsp;
   <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="36" />&nbsp;
